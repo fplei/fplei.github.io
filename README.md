@@ -35,7 +35,6 @@ Then delete the redundant dependency packages (important), open package.json, co
     "hexo-server": "^1.0.0"
   }
 }
-```
 
 ```
 Then enter npm i to install dependent packages.
