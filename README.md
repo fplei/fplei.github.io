@@ -9,7 +9,6 @@ npm i hexo-theme-resume
 
 Then delete the redundant dependency packages (important), open package.json, copy and replace all with the following:
 
-```
 {
   "name": "hexo-site",
   "private": true,
