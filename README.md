@@ -47,7 +47,6 @@ npm i hexo-theme-resume
 
 然后删除多余的依赖包（重要），打开 package.json 复制并全部替换为以下内容：
 
-```
 {
   "name": "hexo-site",
   "private": true,
