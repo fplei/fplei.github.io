@@ -11,10 +11,11 @@
 
 
   // Most redirects should be specified in Hexo's
+
   // _config.yml. However, it can't handle hash-level
   // redirects, such as:
-  //
 
+  //
   // /foo#hello -> /bar#hello
   //
   // For these cases where a section on one page has
